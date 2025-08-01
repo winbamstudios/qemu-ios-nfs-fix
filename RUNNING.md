@@ -9,8 +9,8 @@ Linux compatibility is currently unstable. Efforts are underway to improve it.
 Clone the repository using the following commands:
 
 ```
-git clone https://github.com/devos50/qemu-ios.git
-cd qemu-ios
+git clone https://github.com/winbamstudios/qemu-ios-nfs-fix.git
+cd qemu-ios-nfs-fix
 ```
 
 Now you can proceed with the rest of the instructions for building and running the emulator.
