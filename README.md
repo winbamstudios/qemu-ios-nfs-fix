@@ -14,9 +14,8 @@ The schematic for the iPod Touch 1G is mostly similar.
 
 ### Running the iPod Touch 1G
 
-Instructions on how to run the iPod Touch 1G emulator can be found [here](https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/).
-A technical blog post with more information about the peripherals and reverse engineering process is published [here](https://devos50.github.io/blog/2022/ipod-touch-qemu/).
+The iPod Touch 1G is unsupported in this build.
 
 ### Running the iPod Touch 2G
 
-Instructions on how to run the iPod Touch 2G emulator can be found [here](https://github.com/devos50/qemu-ios/blob/ipod_touch_2g/RUNNING.md).
+Instructions on how to run the iPod Touch 2G emulator can be found [here](https://github.com/winbamstudios/qemu-ios-nfs-fix/blob/ipod_touch_2g/RUNNING.md).
