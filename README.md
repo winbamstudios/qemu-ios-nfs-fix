@@ -3,7 +3,7 @@
 QEMU-iOS is an emulator for legacy Apple devices.
 Currently, the iPod Touch 1G and iPod Touch 2G are supported.
 
-This is QEMU-iOS-NFS-Fix, with a patch for nfs.c, which prevents this from compiling.
+I added a patch onto nfs.c that allows this version to compile properly.
 
 <img width="331" alt="it2g-qemu" src="https://github.com/devos50/qemu-ios/assets/1707075/9bf7f6c1-5918-47e9-bb3e-2e39ae15d519">
 
